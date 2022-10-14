@@ -1,0 +1,57 @@
+section{
+    width: 90%;
+    height: 600px;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+div{
+    width: 300px;
+    padding: 20px;
+    box-sizing: border-box;
+    height: 90%;
+    background: #1a1b1a;
+    margin: 10px;
+}
+
+p{
+    background: rgb(216, 237, 73);
+    padding: 5px;
+    font-size: 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+p:hover{
+    cursor: pointer;
+}
+
+h2{
+    text-align: center;
+    color: white;
+
+}
+
+#red{
+    background-color: red;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#green{
+    background-color: green;
+}
+
+#blueviolet{
+    background-color: blueviolet;
+}
+
+#orange{
+    background-color: orange;
+}
